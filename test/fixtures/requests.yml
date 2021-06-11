@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 
+  driver_id: 
+  location_name: MyString
+  map_location: MyString
+
+two:
+  customer_id: 
+  driver_id: 
+  location_name: MyString
+  map_location: MyString

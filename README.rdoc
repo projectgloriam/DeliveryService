@@ -1,0 +1,37 @@
+== Delivery Service
+
+This is a Rails web app for ordering Delivery Services.
+
+Things you may need:
+
+* Ruby version 2.3.3
+
+* Rails version 4.2.6
+
+
+==== How to get started
+
+Clone the repository:
+<tt>
+$ git clone https://github.com/projectgloriam/DeliveryService.git 
+</tt>
+
+Change to the directory
+<tt>
+$ cd DeliveryService
+</tt>
+
+Install the gems
+<tt>
+$ bundle install 
+</tt>
+
+Migrate the database:
+<tt>
+$ rails db:migrate
+</tt>
+
+Run the app
+<tt>
+$ rails s
+</tt>
